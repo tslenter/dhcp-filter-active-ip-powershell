@@ -1,7 +1,7 @@
-# dhcp-filter-active-ip-powershell
+# DHCP reservation filter with monitor function 
 This repository can be used to filter down active ip addresses for Microsoft DHCP using a small ping monitor
 
-How to use:
+##How to use:
 
 Change the following variables:
 
