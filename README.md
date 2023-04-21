@@ -3,7 +3,7 @@ This repository can be used to filter down active ip addresses for Microsoft DHC
 
 ## How to use:
 
-Change the following variables:
+Download: ms_dhcp_filter_active_ports_and_monitor.ps1 and change the following variables:
 
 ### Name / part scope name:
 ```
